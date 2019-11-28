@@ -1,0 +1,21 @@
+============================================
+Software Documentation: Tools and Techniques
+============================================
+
+- Markdown format Basics
+- Restructured Text Basics
+- Restructured Text Implementations
+- md and rest Plugins for editers Emacs, vi, Atom, Retext
+- Python Docutils
+- Pandoc for conversion from one format to another
+- Third party Convertors for Restructured Text
+- Sphinx: The Python Documentation Generator
+- Documentation Hosting: GitLab and readthedocs.io
+
+
+Markdown
+========
+Markdown is a text format documentation language  which can be used to easily document software and systems
+developed with the key design goal of readability. Modern editors like Atom, VScode etc and web based versioning systems like GitLab and GitHub support markdown. **Typora** is an excellent markdown editor with automatic preview.
+
+
