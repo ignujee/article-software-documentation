@@ -186,7 +186,10 @@ Prerequisites:
 --------------
 
 reStructuredText is a technology created by Python community, so most of the toolchain is built upon Python. It is very important to install Python version 3.4 or above in advance. 
-Docutils can be installed by using the following command in Linux: `pip install docutils`
+Docutils can be installed by using the following command in Linux::
+
+pip install docutils
+
 There are several tools that come with this package which is used to convert rst files to various other formats.
 
 ::
@@ -198,9 +201,9 @@ There are several tools that come with this package which is used to convert rst
 
 Sphinx which is built on top of docutils and intended for larger projects adds even more functionality and can be used to create very professional looking documents.
 
-Sphinx can be installed by running the following command from the terminal: 
+Sphinx can be installed by running the following command from the terminal:: 
 
-`pip install sphinx sphinx-autobuild`
+pip install sphinx sphinx-autobuild
 
 
 Titles in reST
